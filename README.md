@@ -4,4 +4,4 @@ Data is taken from https://github.com/databricks/Spark-The-Definitive-Guide/tree
 
 Used resources:
 
-- https://databricks.com/p/ebook/gentle-intro-to-apache-spark
+- https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
